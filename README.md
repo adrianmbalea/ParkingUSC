@@ -1,0 +1,3 @@
+# Parking USC
+
+Esta aplicación, realizada para la materia de Bases de Datos II, consiste en la gestión de los diferentes parkings de la USC, permitiendo a los usuarios aparcar sin reserva en determinadas plazas, aparcar con una reserva previa para las plazas dedicadas a ello o, en el caso del personal docente e investigador, poder tener una plaza asignada para ellos durante un tiempo determinado. Además, los usuarios podrán consultar el estado de un parking desde la aplicación sin necesidad de ir a él. Todo esto se realizará a través de una conexión a una base de datos PostgreSQL a través de JDBC, y empleando swing para la interfaz gráfica.
